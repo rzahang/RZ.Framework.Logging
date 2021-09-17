@@ -8,7 +8,7 @@ namespace RZ.Framework.Logging
 {
     public enum LogType
     {
-        None = 1,
+        None = 0,
         Debug = 1,
         Information= 2 ,
         Warning = 4 ,
